@@ -1,0 +1,10 @@
+{
+  "domain": "cgesp_weather",
+  "name": "CGESP Weather",
+  "version": "1.0.0",
+  "documentation": "https://github.com/stefhancampos/homeassistant-cgesp-weather",
+  "requirements": ["beautifulsoup4", "aiohttp", "async_timeout"],
+  "dependencies": [],
+  "codeowners": ["@stefhancampos"],
+  "iot_class": "cloud_polling"
+}
