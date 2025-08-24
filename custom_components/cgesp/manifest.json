@@ -1,9 +1,10 @@
 {
-  "domain": "cgesp",
-  "name": "CGE SP Estações Meteorológicas",
-  "version": "0.2.0",
-  "documentation": "https://www.cgesp.org/v3/estacoes-meteorologicas.jsp",
-  "requirements": ["beautifulsoup4==4.12.3"],
-  "codeowners": ["@seu-usuario"],
+  "domain": "cgesp_weather",
+  "name": "CGESP Weather",
+  "version": "0.0.1",
+  "documentation": "https://github.com/stefhancampos/homeassistant-cgesp-weather",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@stefhancampos"],
   "iot_class": "cloud_polling"
 }
