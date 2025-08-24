@@ -3,8 +3,8 @@
   "name": "CGESP Weather",
   "version": "1.0.0",
   "documentation": "https://github.com/stefhancampos/homeassistant-cgesp-weather",
-  "requirements": ["beautifulsoup4", "aiohttp", "async_timeout"],
-  "dependencies": [],
+  "issue_tracker": "https://github.com/stefhancampos/homeassistant-cgesp-weather/issues",
   "codeowners": ["@stefhancampos"],
-  "iot_class": "cloud_polling"
+  "iot_class": "cloud_polling",
+  "requirements": ["beautifulsoup4", "aiohttp", "async_timeout"]
 }
