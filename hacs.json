@@ -1,0 +1,6 @@
+{
+  "name": "cgesp",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "zip_release": true
+}
